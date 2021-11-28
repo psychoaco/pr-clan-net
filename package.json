@@ -1,0 +1,8 @@
+{
+  "name": "pr-clan-net",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/psychoaco/pr-clan-net.git",
+  "author": "psychoaco <psychoaco@users.noreply.github.com>",
+  "license": "MIT"
+}
